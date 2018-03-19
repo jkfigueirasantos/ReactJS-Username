@@ -1,0 +1,19 @@
+.UserOutput {
+  margin: 24px auto;
+  width: 600px;
+  border-radius: 3px;
+  box-shadow: 1px 3px 5px #CCC;
+  padding: 14px;
+  font-size: 14px;
+  background-color: white;
+  display: flex;
+  line-height: 1.4;
+}
+
+.UserOutput__user {
+  text-align: right;
+  width: 30%;
+}
+.UserOutput__dsc {
+  padding-left: 21px;
+}
